@@ -1,2 +1,2 @@
-# Moringa-Week-6-IP
+# FOOTBALL PREDICTION USING POLYNOMIAL REGRESSION AND LOGISTIC REGRESSION
 This contains my prediction for the football ranking
